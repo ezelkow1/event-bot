@@ -1,0 +1,5 @@
+{
+	"Token": "Enter your bot token here",
+	"GuildID": "ID value of the discord server you are running the bot on",
+	"AppID": "AppID value from the discord developer portal for your bot"
+}
